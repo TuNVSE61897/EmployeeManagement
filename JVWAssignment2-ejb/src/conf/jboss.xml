@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <!DOCTYPE jboss PUBLIC
+      "-//JBoss//DTD JBOSS 6.0//EN"
+      "http://www.jboss.org/j2ee/dtd/jboss_6_0.dtd">
+<jboss>
+    <enterprise-beans>
+        <session>
+            <ejb-name>AccountSessionBean</ejb-name>
+            <jndi-name>AccountJNDI</jndi-name>
+            <local-jndi-name>AccountLocalJNDI</local-jndi-name>
+        </session>
+        <session>
+            <ejb-name>EmployeeSessionBean</ejb-name>
+            <jndi-name>EmployeeJNDI</jndi-name>
+            <local-jndi-name>EmployeeLocalJNDI</local-jndi-name>
+        </session>
+        <session>
+            <ejb-name>DepartmentSessionBean</ejb-name>
+            <jndi-name>DepartmentJNDI</jndi-name>
+            <local-jndi-name>DepartmentLocalJNDI</local-jndi-name>
+        </session>
+        <session>
+            <ejb-name>LeaveSessionBean</ejb-name>
+            <jndi-name>LeaveJNDI</jndi-name>
+            <local-jndi-name>LeaveLocalJNDI</local-jndi-name>
+        </session>
+        <session>
+            <ejb-name>StatusSessionBean</ejb-name>
+            <jndi-name>StatusJNDI</jndi-name>
+            <local-jndi-name>StatusLocalJNDI</local-jndi-name>
+        </session>
+    </enterprise-beans>
+</jboss>
