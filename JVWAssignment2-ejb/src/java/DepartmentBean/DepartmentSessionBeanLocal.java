@@ -11,7 +11,7 @@ import java.util.List;
 
 /**
  *
- * @author Binh Nguyen
+ * @author Tu Nguyen
  */
 @Local
 public interface DepartmentSessionBeanLocal {

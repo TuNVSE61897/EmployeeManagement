@@ -1,7 +1,7 @@
 <%-- 
     Document   : Login
     Created on : Apr 5, 2016, 7:02:11 PM
-    Author     : Binh Nguyen
+    Author     : Tu Nguyen
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>

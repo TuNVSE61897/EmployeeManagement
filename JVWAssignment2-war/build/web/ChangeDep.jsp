@@ -1,7 +1,7 @@
 <%-- 
     Document   : ChangeDep
     Created on : Apr 6, 2016, 7:29:47 PM
-    Author     : Binh Nguyen
+    Author     : Tu Nguyen
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>

@@ -21,7 +21,7 @@ import javax.servlet.http.HttpSession;
 
 /**
  *
- * @author Binh Nguyen
+ * @author Tu Nguyen
  */
 public class ViewProfileServlet extends HttpServlet {
 

@@ -9,7 +9,7 @@ import javax.ejb.Local;
 
 /**
  *
- * @author Binh Nguyen
+ * @author Tu Nguyen
  */
 @Local
 public interface AccountSessionBeanLocal {

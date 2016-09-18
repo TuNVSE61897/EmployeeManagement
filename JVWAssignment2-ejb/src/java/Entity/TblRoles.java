@@ -17,7 +17,7 @@ import javax.xml.bind.annotation.XmlRootElement;
 
 /**
  *
- * @author Binh Nguyen
+ * @author Tu Nguyen
  */
 @Entity
 @Table(name = "tbl_roles", catalog = "JVWAssignment2", schema = "dbo")

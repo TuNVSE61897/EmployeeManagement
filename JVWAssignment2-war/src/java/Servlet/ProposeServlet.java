@@ -26,7 +26,7 @@ import javax.servlet.http.HttpSession;
 
 /**
  *
- * @author Binh Nguyen
+ * @author Tu Nguyen
  */
 public class ProposeServlet extends HttpServlet {
 

@@ -9,7 +9,7 @@ import javax.ejb.Remote;
 
 /**
  *
- * @author Binh Nguyen
+ * @author Tu Nguyen
  */
 @Remote
 public interface StatusSessionBeanRemote {

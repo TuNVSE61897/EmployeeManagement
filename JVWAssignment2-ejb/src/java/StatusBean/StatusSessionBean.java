@@ -12,7 +12,7 @@ import javax.persistence.PersistenceContext;
 
 /**
  *
- * @author Binh Nguyen
+ * @author Tu Nguyen
  */
 @Stateless
 public class StatusSessionBean 

@@ -1,7 +1,7 @@
 <%-- 
     Document   : manager
     Created on : Apr 5, 2016, 9:01:45 PM
-    Author     : Binh Nguyen
+    Author     : Tu Nguyen
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>

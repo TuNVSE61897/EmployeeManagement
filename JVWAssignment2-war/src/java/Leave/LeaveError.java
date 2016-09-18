@@ -9,7 +9,7 @@ import java.io.Serializable;
 
 /**
  *
- * @author Binh Nguyen
+ * @author Tu Nguyen
  */
 public class LeaveError implements Serializable {
     

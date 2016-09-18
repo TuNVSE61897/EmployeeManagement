@@ -20,7 +20,7 @@ import javax.servlet.http.HttpServletResponse;
 
 /**
  *
- * @author Binh Nguyen
+ * @author Tu Nguyen
  */
 public class AcceptServlet extends HttpServlet {
 

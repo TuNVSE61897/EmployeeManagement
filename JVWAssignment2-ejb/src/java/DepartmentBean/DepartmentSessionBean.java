@@ -14,7 +14,7 @@ import javax.persistence.Query;
 
 /**
  *
- * @author Binh Nguyen
+ * @author Tu Nguyen
  */
 @Stateless
 public class DepartmentSessionBean implements DepartmentSessionBeanLocal, DepartmentSessionBeanRemote {
